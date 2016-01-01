@@ -1,6 +1,6 @@
-# ESP8266-Led-Control
+# ESP8266 Led Control
 
-**ESP8266 LED Control** is a project that turns on/off an LED remotely using Arduino and ESP8266 in communication with another remote device.
+**ESP8266 Led Control** is a project that turns on/off an LED remotely using Arduino and ESP8266 in communication with another remote device.
 
 Below is a Client program demonstration video ESP8266 Led Control
 
